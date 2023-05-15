@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <!--<Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>-->
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Cosmos" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.4" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BoxOffice.Dal\BoxOffice.Dal.csproj" />
+    <ProjectReference Include="..\BoxOffice.Model\BoxOffice.Model.csproj" />
+    <ProjectReference Include="..\BoxOffice.Orchestrators\BoxOffice.Orchestrators.csproj" />
+    <ProjectReference Include="..\BoxOffice.Platform\BoxOffice.Platform.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+D:\Education\KPI\FIOT\6_semester\DataInCloud\Labs_DataInCloud\dic-maximikhin-ole\BoxOfficeApi\BoxOffice.Database\bin\Debug\BoxOffice.Database.dacpac
+D:\Education\KPI\FIOT\6_semester\DataInCloud\Labs_DataInCloud\dic-maximikhin-ole\BoxOfficeApi\BoxOffice.Database\bin\Debug\BoxOffice.Database.dll
+D:\Education\KPI\FIOT\6_semester\DataInCloud\Labs_DataInCloud\dic-maximikhin-ole\BoxOfficeApi\BoxOffice.Database\bin\Debug\BoxOffice.Database.pdb
+D:\Education\KPI\FIOT\6_semester\DataInCloud\Labs_DataInCloud\dic-maximikhin-ole\BoxOfficeApi\BoxOffice.Database\obj\Debug\BoxOffice.Database.sqlproj.AssemblyReference.cache
+D:\Education\KPI\FIOT\6_semester\DataInCloud\Labs_DataInCloud\dic-maximikhin-ole\BoxOfficeApi\BoxOffice.Database\obj\Debug\BoxOffice.Database.dll
+D:\Education\KPI\FIOT\6_semester\DataInCloud\Labs_DataInCloud\dic-maximikhin-ole\BoxOfficeApi\BoxOffice.Database\obj\Debug\BoxOffice.Database.pdb
+D:\Education\Step\24_WEB_CourseProject\BoxOfficeApi\BoxOffice.Database\bin\Debug\BoxOffice.Database.dacpac
+D:\Education\Step\24_WEB_CourseProject\BoxOfficeApi\BoxOffice.Database\bin\Debug\BoxOffice.Database.dll
+D:\Education\Step\24_WEB_CourseProject\BoxOfficeApi\BoxOffice.Database\bin\Debug\BoxOffice.Database.pdb
+D:\Education\Step\24_WEB_CourseProject\BoxOfficeApi\BoxOffice.Database\obj\Debug\BoxOffice.Database.sqlproj.AssemblyReference.cache
+D:\Education\Step\24_WEB_CourseProject\BoxOfficeApi\BoxOffice.Database\obj\Debug\BoxOffice.Database.dll
+D:\Education\Step\24_WEB_CourseProject\BoxOfficeApi\BoxOffice.Database\obj\Debug\BoxOffice.Database.pdb
+D:\Education\Step\24_WEB_CourseProject\BoxOfficeApi\BoxOffice.Database\obj\Debug\Model.xml
+D:\Education\Step\24_WEB_CourseProject\BoxOfficeApi\BoxOffice.Database\obj\Debug\refactor.xml
+D:\Education\Step\24_WEB_CourseProject\BoxOfficeApi\BoxOffice.Database\obj\Debug\postdeploy.sql
+D:\Education\Step\24_WEB_CourseProject\BoxOfficeApi\BoxOffice.Database\obj\Debug\predeploy.sql

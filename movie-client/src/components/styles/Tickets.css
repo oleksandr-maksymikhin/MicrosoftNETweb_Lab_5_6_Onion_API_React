@@ -1,0 +1,51 @@
+.hall-grid{
+    display:grid;
+    grid-template-columns: repeat(5, 1fr);
+    justify-content: center;
+    gap: 2px; 
+}
+
+.hall-grid>div{
+    align-self: center;
+    justify-self: center; 
+}
+
+
+.seat{
+    width: 80px;
+    height: 60px;
+    background-color: lightgreen;
+    border: 1px solid maroon;
+    display:inline-block;
+    text-align: center;
+    line-height: 60px;
+    font-size:medium;
+    font-weight:bold;
+    font-size: 150%;
+  }
+  .selected{
+    width: 80px;
+    height: 60px;
+    background-color: yellow;
+    border: 1px solid maroon;
+    color: black;
+    display:inline-block;
+    text-align: center;
+    line-height: 60px;
+    font-weight:bold;
+    font-size: 200%;
+  }
+  .sold{
+    width: 80px;
+    height: 60px;
+    color: white;
+    
+    background-color: maroon;
+    border: 1px solid yellow;
+    display:inline-block;
+    text-align: center;
+    line-height: 60px;
+    font-weight:bold;
+    font-size: 150%;
+    /* vertical-align: middle; */
+  }
